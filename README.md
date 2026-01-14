@@ -196,7 +196,7 @@ If you use SWGL in your research or product, please cite:
   title={SWGL: Stability-Weighted Gradient Learning},
   author={Walid Maxsim},
   year={2024},
-  url={https://github.com/yourusername/swgl},
+  url={https://github.com/VireonLabs/SWGL},
   note={Lightweight gradient modulation for online learning}
 }
 ```
